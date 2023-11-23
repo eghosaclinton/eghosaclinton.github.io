@@ -31,7 +31,7 @@ Mobile view (375 x 667)
 
 ### Links
 
-- Solution URL: [github.com/eghosaclinton/eghosaclinton.github.io](https://github.com/eghosaclinton/eghosaclinton.github.io)
+- Solution URL: [www.frontendmentor.io/solutions/responsive-qr-code-component-solution-with-css-vRBsJ0UH96](https://www.frontendmentor.io/solutions/responsive-qr-code-component-solution-with-css-vRBsJ0UH96)
 - Live Site URL: [eghosaclinton.github.io](https://eghosaclinton.github.io/)
 
 ## My process
